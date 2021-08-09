@@ -1,0 +1,27 @@
+.App {
+  display: block;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table button {
+  border: none;
+  background: gray;
+  padding: 6px;
+  color: white;
+  cursor: pointer;
+}
+
+table thead th {
+  padding: 10px;
+  border: 1px solid gray;
+}
+
+table tbody td {
+  padding: 10px;
+  border: 1px solid gray;
+}
